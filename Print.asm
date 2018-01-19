@@ -2,7 +2,8 @@ CODESEG
 ; ---------------------------------------------------------------------
 ; Get FileHandle, and dedicated space address for print usage from stack
 ; Print the BMP.
-; Ori Levi
+; Ori Levi🤪🤪
+; It's Benzi Project
 ; ---------------------------------------------------------------------
 proc PrintFullScreenBMP
 	push bp ;Preserve bp's value

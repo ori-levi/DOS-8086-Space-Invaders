@@ -43,7 +43,7 @@ proc Delay
 	cmp ax, [es:6Ch]
 	je @@delayLoop
 
-	mov ax, [es:6Ch]
+	mov ax, [es:6Ch] ;1234567890-=
 	loop @@delayLoop
 
 @@procEnd:
